@@ -1,0 +1,73 @@
+.header{
+    padding: 14px 0;
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+    transition: all 0.5s;
+    z-index: 997;
+    background-color: #fff;
+}
+.span{
+    color: black;
+    font-weight: 500;
+}
+.a{
+    color: black;
+    font-weight: 500;
+}
+.span2{
+    background-color: #f6214b;
+    color: #fff;
+    padding: 33px;
+    font-size: 18px;
+    font-weight: 700;
+    margin-left: 10px;
+}
+.hr{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+ul{
+    display: inline;
+}
+li{
+    color: black;
+    margin-left: 28px;
+    display: inline-block;
+}
+li:hover{
+    color:#f6214b;
+}
+section{
+    background: url("https://preview.colorlib.com/theme/gym/img/header-bg.jpg.webp") center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.over{
+   /*background-color: rgba(0, 0, 0, 0.5);*/
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0; 
+}
+h2{
+    font-size: 38px;
+    color: white;
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 1em;
+    margin-top: 270px;
+    margin-left: 20%;
+}
+.p2{
+    text-align: center;
+    display: block;
+    color: white;
+    font-size: 25px;
+    margin-top: 30px;
+}

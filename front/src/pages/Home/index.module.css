@@ -1,0 +1,41 @@
+.div{
+    margin-top: 50px;
+    padding: 120px 0;
+    background: url("https://preview.colorlib.com/theme/gym/img/callto-bg.jpg.webp");
+    background-size: cover;
+    position: relative;
+}
+.h1{
+    font-size: 42px;
+    text-align: center;
+    margin-bottom: 20px;
+    color: white;
+}
+.p2{
+    text-align: center;
+    color: white;
+    margin-bottom: 20px;
+}
+.a3{
+    background-color: #f6214b;
+    border-radius: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border: 1px solid transparent;
+    color: white;
+}
+.div5{
+    padding:120px 0;
+
+}
+.div7{
+    padding:120px 0; 
+}
+.div26{
+    margin-bottom: 50px;
+    width: 80%;
+    margin: 0 auto;
+}
+.img-top{
+    position: relative;
+}
